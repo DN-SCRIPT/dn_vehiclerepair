@@ -1,27 +1,40 @@
-# DN CARREPAIR
-----------------
-CARREPAIR IS A FIVEM SCRIPT WHICH HELPS TO REPAIRS PLAYERS YOUR VEHICLE
+:wave: Hey WELCOME TO DN VEHICLE REPAIR SCRIPT SHOWCASE
 
-# Dependencies
---------------
-DN NOTIFY - https://dn-script.tebex.io/package/5864995 
-OkokTextUi (optional)
-ESX textui,progressbar & Notify
-
-# impo
---------
-DONT CHANGE SCRIPT NAME IT WILL NOT WORK
+ A SCRIPT THAT ALLOW THE PLAYER THE SERVER TO REPAIR THERE VEHICLE'S IF IT GET'S DAMAGED !! 
 
 
-# Help
--------
-IF YOU NEED ANY HELPS OR FIXING ISSUES JOIN DN DEVELOPMENT [Discord](https://discord.gg/5rPcUNHDEV)
-  
+# SOME FEATURES :star:
+-----------------------------
 
-# Download & Installation
---------------------------
+> . [FREE / ESX ]
+> . You Can Add Vehicle Repair System As Much As You Need
+> . Customizable Repair System Price
+> . Optimised
+> . Customisable 
 
-**USING  TEBEX**
+
+# Dependencies :star:
+------------------
+
+> . DN NOTIFY -  https://dn-script.tebex.io/category/2486959
+
+> . OkokTextUi (optional)
+
+> . ESX textui,progressbar & Notify
+
+> . ox_lib - https://github.com/overextended/ox_lib
+
+> . interact-sounds                          
+ 
+:dizzy: PREVIEW 
+
+https://youtu.be/P5IdWl4gyeE
+
+:dizzy: DN DEVELOPMENT DISCORD
+
+https://discord.gg/XKWSQRfUcR
+
+ **Many updates planned and suggestions being actively implemented!** :oncoming_automobile:
 
 ```
 # Installation
